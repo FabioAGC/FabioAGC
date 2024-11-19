@@ -6,7 +6,7 @@
        <img src="https://github.com/FabioAGC/FabioAGC/blob/main/2a20476ec0356bdbb03fa09ed93c5bfe.gif" alt="Asuka" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 10%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 10px;">
+      <p style="font-family: monospace; font-size: 24px;">
      
         
     𝕊𝕖𝕖 𝕪𝕠𝕦 𝕊𝕡𝕒𝕔𝕖 ℂ𝕠𝕨𝕓𝕠𝕪 . . . 
