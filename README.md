@@ -1,4 +1,4 @@
-# LAIN
+# 𝔽𝔸𝔹𝕀𝕋𝕆𝕊
 
 <table>
   <tr>
@@ -9,7 +9,7 @@
       <p style="font-family: monospace; font-size: 16px;">
      
         
-    𝔽𝔸𝔹𝕀𝕋𝕆𝕊
+    -alea jacta est-
 
 </p>
 
