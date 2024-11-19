@@ -9,7 +9,7 @@
       <p style="font-family: monospace; font-size: 16px;">
      
         
-    -𝕊𝕖𝕖 𝕪𝕠𝕦 𝕊𝕡𝕒𝕔𝕖 ℂ𝕠𝕨𝕓𝕠𝕪 . . .- 
+    𝕊𝕖𝕖 𝕪𝕠𝕦 𝕊𝕡𝕒𝕔𝕖 ℂ𝕠𝕨𝕓𝕠𝕪 . . . 
    
 
 </p>
