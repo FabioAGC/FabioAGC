@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td style="width: 30%;">
+    <td style="width: 10%;">
        <img src="https://github.com/FabioAGC/FabioAGC/blob/main/2a20476ec0356bdbb03fa09ed93c5bfe.gif" alt="Asuka" style="width: 70%; border: none;"/>
     </td>
-    <td style="width: 30%; vertical-align: top;">
+    <td style="width: 10%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
      
         
