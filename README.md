@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td style="width: 10%;">
-       <img src="https://github.com/FabioAGC/LAIN/blob/main/imagem_2024-11-18_210132077.png" alt="Asuka" style="width: 200%; border: none;"/>
+    <td style="width: 50%;">
+       <img src="https://github.com/FabioAGC/LAIN/blob/main/imagem_2024-11-18_210132077.png" alt="Asuka" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
