@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="width: 30%;">
+    <td style="width: 60%;">
        <img src="https://github.com/FabioAGC/LAIN/blob/main/imagem_2024-11-18_210132077.png" alt="Asuka" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
