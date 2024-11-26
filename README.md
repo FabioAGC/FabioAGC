@@ -17,21 +17,21 @@
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
     ├── /𝐁𝐈𝐎
-    │    └── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
-    │    └── INATEL - Software engineer
-    │    └── Email  - dev.fabio.cruvinel@gmail.com
+    │     ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
+    │     ├── INATEL - Software engineer
+    │     └── Email  - dev.fabio.cruvinel@gmail.com
     |
     ├── /𝐎𝐒
-    │     └── /ʟɪɴᴜx 
+    │     ├── /ʟɪɴᴜx 
     │     └── Arch linux
     │           
     └── /𝑺𝑲𝑰𝑳𝑳𝑺
-         ├── C++ , Python , Java , C#
-         ├── MySQL , NoSQL
-         ├── Docker
-         ├── Git
-         ├── Pentest
-         └── HTML , CSS ,javascript
+          ├── C++ , Python , Java , C#
+          ├── MySQL , NoSQL
+          ├── Docker
+          ├── Git
+          ├── Pentest
+          └── HTML , CSS ,javascript
         
         
   </tr>
