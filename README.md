@@ -23,14 +23,14 @@
     |
     ├── /𝐎𝐒
     │     ├── /ʟɪɴᴜx 
-    │     └── Arch linux
+    │     └── OMARCHY (Arch linux linux based)
     │           
     └── /𝑺𝑲𝑰𝑳𝑳𝑺
           ├── C++ , Python , Java , C#
           ├── MySQL , NoSQL
           ├── Docker
           ├── Git
-          ├── Pentest
+          ├── Data Analysis
           ├── Node.JS e Next.JS
           └── HTML , CSS ,javascript
         
