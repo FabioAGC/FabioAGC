@@ -26,13 +26,14 @@
     │     └── OMARCHY (Arch linux linux based)
     │           
     └── /𝑺𝑲𝑰𝑳𝑳𝑺
-          ├── C++ , Python , Java , C#
-          ├── MySQL , NoSQL
+          ├── C++ , Python , Java , C# , flutter , PHP 
+          ├── MySQL , NoSQL , SQLite , PostgreSQL
           ├── Docker
           ├── Git
           ├── Data Analysis
           ├── Node.JS e Next.JS
           └── HTML , CSS ,javascript
+          └── N8N 
         
         
   </tr>
