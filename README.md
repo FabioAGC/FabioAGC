@@ -16,25 +16,24 @@
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
-    ├── /𝐁𝐈𝐎
-    │     ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
-    │     ├── INATEL - Software engineer
-    │     └── Email  - dev.fabio.cruvinel@gmail.com
+    ├── /𝐒𝐎𝐁𝐑𝐄 𝐌𝐈𝐌
+    │     ├── Desenvolvedor de software apaixonado por tecnologia, animes , jogos e automação.
+    │     ├── Focado em Cybersegurança , Dados e BackEnd.
+    │     └── Sempre estudando arquitetura de software e boas práticas de código e umas nerdices de C.
     |
     ├── /𝐎𝐒
     │     ├── /ʟɪɴᴜx 
     │     └── OMARCHY (Arch linux linux based)
     │           
-    └── /𝑺𝑲𝑰𝑳𝑳𝑺
+    └── /Habilidades
           ├── C++ , Python , Java , C# , flutter , PHP 
           ├── MySQL , NoSQL , SQLite , PostgreSQL
           ├── Docker
           ├── Git
-          ├── Data Analysis
-          ├── Node.JS e Next.JS
-          └── HTML , CSS ,javascript
-          └── N8N 
-        
-        
+          ├── Ánalise de dados
+          ├── HTML , CSS ,javascript Node.JS e Next.JS
+          └── N8N e automação
+    
+   
   </tr>
 </table>
