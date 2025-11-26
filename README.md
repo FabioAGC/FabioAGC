@@ -14,19 +14,19 @@
 
 </p>
 
-    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+    /𝔽𝕒𝕓𝕚𝕠
     │
-    ├── /SOBRE MIM
+    ├── /𝕊𝕆𝔹ℝ𝔼 𝕄𝕀𝕄 
     │     ├── Desenvolvedor de software fullstack
     │     ├── Quase formando no INATEL , 8o período
     │     └── Sempre estudando umas nerdices de C e cybersec.
     |     └── Fã de anime velho , jogos e livros clássicos .
     |
-    ├── /EXPERIÊNCIA
+    ├── /𝔼𝕏ℙÊℝ𝕀𝔼ℕℂ𝕀𝔸
     │     ├── Pesquisador de cybersegurança no CS&I Lab.
     │     └── Analista de Dados e automações na RWTech.
     │           
-    └── /HABILIDADES
+    └── /ℍ𝔸𝔹𝕀𝕃𝕀𝔻𝔸𝔻𝔼𝕊
           ├── C++ , Python , Java , C# , flutter e PHP 
           ├── MySQL , NoSQL , SQLite e PostgreSQL
           ├── Docker
