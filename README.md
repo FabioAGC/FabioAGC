@@ -16,22 +16,23 @@
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
-    ├── /𝐒𝐎𝐁𝐑𝐄 𝐌𝐈𝐌
-    │     ├── Desenvolvedor de software apaixonado por tecnologia, animes , jogos e automação.
-    │     ├── Focado em Cybersegurança , Dados e BackEnd.
-    │     └── Sempre estudando arquitetura de software e boas práticas de código e umas nerdices de C.
+    ├── /SOBRE MIM
+    │     ├── Desenvolvedor de software fullstack
+    │     ├── Quase formando no INATEL , 8o período
+    │     └── Sempre estudando umas nerdices de C e cybersec.
+    |     └── Fã de anime velho , jogos e livros clássicos .
     |
-    ├── /𝐎𝐒
-    │     ├── /ʟɪɴᴜx 
-    │     └── OMARCHY (Arch linux linux based)
+    ├── / EXPERIÊNCIA
+    │     ├── Pesquisador de cybersegurança no CS&I Lab.
+    │     └── Analista de Dados e automações na RWTech.
     │           
-    └── /Habilidades
-          ├── C++ , Python , Java , C# , flutter , PHP 
-          ├── MySQL , NoSQL , SQLite , PostgreSQL
+    └── /HABILIDADES
+          ├── C++ , Python , Java , C# , flutter e PHP 
+          ├── MySQL , NoSQL , SQLite e PostgreSQL
           ├── Docker
           ├── Git
-          ├── Ánalise de dados
-          ├── HTML , CSS ,javascript Node.JS e Next.JS
+          ├── Ánalise de dados (scikitlearn,pandas e numpy)
+          ├── HTML , CSS ,javascript , Node.JS e Next.JS
           └── N8N e automação
     
    
