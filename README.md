@@ -16,7 +16,7 @@
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
-    ├── /SOBRE MIM
+    ├── / SOBRE MIM
     │     ├── Desenvolvedor de software fullstack
     │     ├── Quase formando no INATEL , 8o período
     │     └── Sempre estudando umas nerdices de C e cybersec.
@@ -26,7 +26,7 @@
     │     ├── Pesquisador de cybersegurança no CS&I Lab.
     │     └── Analista de Dados e automações na RWTech.
     │           
-    └── /HABILIDADES
+    └── / HABILIDADES
           ├── C++ , Python , Java , C# , flutter e PHP 
           ├── MySQL , NoSQL , SQLite e PostgreSQL
           ├── Docker
