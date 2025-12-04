@@ -32,7 +32,7 @@
           ├── Docker
           ├── Git
           ├── Ánalise de dados (scikitlearn,pandas e numpy)
-          ├── HTML , CSS ,javascript , Node.JS e Next.JS
+          ├── HTML , CSS , typescript , Node.JS e Next.JS
           └── N8N e automação
     
    
