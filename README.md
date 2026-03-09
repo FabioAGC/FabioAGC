@@ -18,13 +18,14 @@
     │
     ├── /𝕊𝕆𝔹ℝ𝔼 𝕄𝕀𝕄 
     │     ├── Desenvolvedor de software fullstack
-    │     ├── Quase formando no INATEL , 8o período
+    │     ├── Quase formando no INATEL , 9o período
     │     └── Sempre estudando umas nerdices de C e cybersec.
     |     └── Fã de anime velho , jogos e livros clássicos .
     |
     ├── /𝔼𝕏ℙÊℝ𝕀𝔼ℕℂ𝕀𝔸
     │     ├── Pesquisador de cybersegurança no CS&I Lab.
-    │     └── Analista de Dados e automações na RWTech.
+    |     ├── Analista de Dados e automações na RWTech.   
+    │     └── Analista de Suplly Chain Digital na General Mills
     │           
     └── /ℍ𝔸𝔹𝕀𝕃𝕀𝔻𝔸𝔻𝔼𝕊
           ├── C++ , Python , Java , C# , flutter e PHP 
