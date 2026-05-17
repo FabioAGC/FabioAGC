@@ -26,6 +26,7 @@
       <ul>
         <li>I like to watch old anime , read classical literature and walk on the nature</li>
         <li>I lova gaming , and i played almost every possible genre at some period of my life</li>
+        <h4></h4>
       </ul>
     </td>
   </tr>
