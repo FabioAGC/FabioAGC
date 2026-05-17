@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="fall.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="af4bd72182521f53f7db11aa38965da0_t3(1).gif" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Fabio Cruvinel</h1>
