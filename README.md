@@ -7,10 +7,7 @@
     </td>
     <td style="width: 10%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 24px;">
-     
-        
-    𝕊𝕖𝕖 𝕪𝕠𝕦 𝕊𝕡𝕒𝕔𝕖 ℂ𝕠𝕨𝕓𝕠𝕪 . . . 
-   
+    
 
 </p>
 
