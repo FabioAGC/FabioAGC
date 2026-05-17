@@ -1,38 +1,32 @@
-# 𝔽𝔸𝔹𝕀𝕋𝕆𝕊
-
 <table>
   <tr>
-    <td style="width: 10%;">
-       <img src="https://github.com/FabioAGC/FabioAGC/blob/main/brandbird.gif" alt="Asuka" style="width: 100%; border: none;"/>
+    <td  width="400">
+      <img src="fall.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
-    <td style="width: 10%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 24px;">
-    
-
-</p>
-
-    /𝔽𝕒𝕓𝕚𝕠
-    │
-    ├── /𝕊𝕆𝔹ℝ𝔼 𝕄𝕀𝕄 
-    │     ├── Desenvolvedor de software fullstack
-    │     ├── Quase formando no INATEL , 9o período
-    │     └── Sempre estudando umas nerdices de C e cybersec.
-    |     └── Fã de anime velho , jogos e livros clássicos .
-    |
-    ├── /𝔼𝕏ℙÊℝ𝕀𝔼ℕℂ𝕀𝔸
-    │     ├── Pesquisador de cybersegurança no CS&I Lab.
-    |     ├── Analista de Dados e automações na RWTech.   
-    │     └── Analista de Suplly Chain Digital na General Mills
-    │           
-    └── /ℍ𝔸𝔹𝕀𝕃𝕀𝔻𝔸𝔻𝔼𝕊
-          ├── C++ , Python , Java , C# , flutter e PHP 
-          ├── MySQL , NoSQL , SQLite e PostgreSQL
-          ├── Docker
-          ├── Git
-          ├── Ánalise de dados (scikitlearn,pandas e numpy)
-          ├── HTML , CSS , typescript , Node.JS e Next.JS
-          └── N8N e automação
-    
-   
+    <td valign="top">
+      <h1>Fabio Cruvinel</h1>
+      <p>Software engineer focused on programming languages, type systems, and low-level systems. Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Low level programming languages</li>
+        <li>Cyber Security</li>
+        <li>Data analysis and Machine learning</li>
+        <li>Linux systems</li>
+        <li>Virtual machines and emulators</li>
+        <li>HFT and trading</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: C++ , Python , Java , C# , flutter , PHP </li>
+        <li>Databases: MySQL , NoSQL , SQLite , PostgreSQL , REDIS</li>
+        <li>Systems: AWS , Claude , Git , N8N , Linux </li>
+        <li>Tools: N8N , PowerBI , Tableau , Git , Docker </li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>I like to watch old anime , read classical literature and walk on the nature</li>
+        <li>I lova gaming , and i played almost every possible genre at some period of my life</li>
+      </ul>
+    </td>
   </tr>
 </table>
