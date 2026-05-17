@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Fabio Cruvinel</h1>
-      <p>Software engineer focused on programming languages, type systems, and low-level systems. Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.</p>
+      <p>Software engineer focused on mainly on data anlysis and system performances , i love to automate and optimize workflows and i have side studies on the cybersecurity area</p>
       <h2>Areas of Interest</h2>
       <ul>
         <li>Low level programming languages</li>
@@ -22,7 +22,7 @@
         <li>Systems: AWS , Claude , Git , N8N , Linux </li>
         <li>Tools: N8N , PowerBI , Tableau , Git , Docker </li>
       </ul>
-      <h2>Contact</h2>
+      <h2>Hobbies and Fun</h2>
       <ul>
         <li>I like to watch old anime , read classical literature and walk on the nature</li>
         <li>I lova gaming , and i played almost every possible genre at some period of my life</li>
