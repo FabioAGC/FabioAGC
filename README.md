@@ -20,7 +20,7 @@
         <li>🔤 Languages: C++ , Python , Java , C# , Flutter , PHP</li>
         <li>🗄️ Databases: MySQL , SQLite , PostgreSQL , REDIS</li>
         <li>☁️ Systems: AWS , Claude , Git , N8N , Linux</li>
-        <li>🧰 Tools: N8N , PowerBI , Tableau , Git , Docker , studio5000 logix</li>
+        <li>🧰 Tools: N8N , PowerBI , Tableau , Git , Docker</li>
       </ul>
       <h2>Hobbies and Fun</h2>
       <ul>
