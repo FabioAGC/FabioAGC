@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Fabio Cruvinel</h1>
-      <p>💻 Software engineer focused mainly on data analysis and system performance. I love to automate and optimize workflows.Actually i'm wornking as a Digital Supply Chain Analyst , using machine learning and programming on industry plants for them to run on their fullest capacity</p>
+      <p>💻 Software engineer focused mainly on data analysis and system performance. I love to automate and optimize workflows .Actually i'm wornking as a Digital Supply Chain Analyst , using machine learning and programming on industry plants for them to run on their fullest capacity</p>
       <h2>Areas of Interest</h2>
       <ul>
         <li>⚙️ Low level programming languages</li>
@@ -24,7 +24,7 @@
       </ul>
       <h2>Hobbies and Fun</h2>
       <ul>
-        <li>🎮 I love gaming , i also like to watch old anime , read classical literature and walks in nature</li>
+        <li>🎮 I love gaming , i also like to watch old anime , read classical literature and have walks in nature</li>
       </ul>
     </td>
   </tr>
