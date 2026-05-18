@@ -24,8 +24,7 @@
       </ul>
       <h2>Hobbies and Fun</h2>
       <ul>
-        <li>📺 I like to watch old anime, read classical literature and walks in nature</li>
-        <li>🎮 I love gaming, and I've played almost every possible genre at some period of my life</li>
+        <li>🎮 I love gaming , i also like to watch old anime , read classical literature and walks in nature</li>
       </ul>
     </td>
   </tr>
