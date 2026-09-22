@@ -29,3 +29,28 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>📌 About Me</h2>
+      <p>
+        I'm a Computer Engineering student at <b>INATEL</b> and a Digital Supply Chain Analyst,
+        working where industrial automation meets data. My day to day involves industrial data
+        platforms like <b>AVEVA Historian</b>, <b>AVEVA MES</b>, <b>AVEVA CONNECT</b> and
+        <b>Snowflake</b>, turning plant-floor data into insights that help operations run at full capacity.
+      </p>
+      <h2>🔬 Current Research</h2>
+      <p>
+        For my undergraduate thesis (TCC), I'm benchmarking <b>six self-hosted vector databases</b>
+        (PostgreSQL/pgvector, Apache Cassandra 5.0, Redis/RediSearch, ChromaDB, Weaviate and Qdrant)
+        under identical hardware limits, using an <b>iso-recall methodology</b> so latency and
+        throughput are compared at the same level of search quality.
+        <br>
+        📂 <a href="https://github.com/FabioAGC/TCC---BDs-Vetoriais">TCC — Vector Database Benchmark</a>
+      </p>
+    </td>
+    <td width="400">
+      <img src="brandbird.gif" width="400" alt="Second image">
+    </td>
+  </tr>
+</table>
