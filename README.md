@@ -46,7 +46,6 @@
         under identical hardware limits, using an <b>iso-recall methodology</b> so latency and
         throughput are compared at the same level of search quality.
         <br>
-        📂 <a href="https://github.com/FabioAGC/TCC---BDs-Vetoriais">TCC — Vector Database Benchmark</a>
       </p>
     </td>
     <td width="400">
