@@ -13,7 +13,7 @@
         <li>📊 Data analysis and Machine learning</li>
         <li>🐧 Linux systems</li>
         <li>🖥️ Virtual machines and Networks</li>
-        <li>📈 PLC and IHM automation networks</li>
+        <li>📈 AI and computer vision model training</li>
       </ul>
       <h2>🛠️ Technologies</h2>
       <ul>
@@ -21,6 +21,7 @@
         <li>🗄️ Databases: MySQL , SQLite , PostgreSQL , REDIS</li>
         <li>☁️ Systems: AWS , Claude , Git , N8N , Linux</li>
         <li>🧰 Tools: N8N , PowerBI , Tableau , Git , Docker</li>
+        <li>🤖 AI: PaDiM and YOLO (object detection) , RAG + OCR , MCP servers , Hugging Face (LoRA fine-tuning)</li>
       </ul>
       <h2>🎲 Hobbies and Fun</h2>
       <ul>
