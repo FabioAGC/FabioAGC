@@ -23,10 +23,6 @@
         <li>🧰 Tools: N8N , PowerBI , Tableau , Git , Docker</li>
         <li>🤖 AI: PaDiM and YOLO (object detection) , RAG + OCR , MCP servers , Hugging Face (LoRA fine-tuning)</li>
       </ul>
-      <h2>🎲 Hobbies and Fun</h2>
-      <ul>
-        <li>I love gaming , i also like to watch old anime , read classical literature and have walks in nature</li>
-      </ul>
     </td>
   </tr>
 </table>
